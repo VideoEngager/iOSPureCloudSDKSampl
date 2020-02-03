@@ -1,1 +1,1 @@
-# iOSPureCloudSDKSampl
+# iOSPureCloudSDKSampl Marin
