@@ -1,0 +1,6 @@
+framework module VideoEngager {
+  umbrella header "VideoEngager.h"
+
+  export *
+  module * { export * }
+}

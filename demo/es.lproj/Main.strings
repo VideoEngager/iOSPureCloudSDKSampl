@@ -1,0 +1,15 @@
+
+/* Class = "UIBarButtonItem"; title = "Log out"; ObjectID = "4SF-Se-f7q"; */
+"4SF-Se-f7q.title" = "Cerrar sesión";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "7vx-uF-QsH"; */
+"7vx-uF-QsH.normalTitle" = "OK";
+
+/* Class = "UITextField"; placeholder = "Enter short url"; ObjectID = "LL9-c2-Fuw"; */
+"LL9-c2-Fuw.placeholder" = "Introduce url corto";
+
+/* Class = "UINavigationItem"; title = "SDK Demo"; ObjectID = "Xkt-RA-dYP"; */
+"Xkt-RA-dYP.title" = "SDK Demo";
+
+/* Class = "UINavigationItem"; title = "SDK Demo"; ObjectID = "e0F-S8-kKZ"; */
+"e0F-S8-kKZ.title" = "SDK Demo";
